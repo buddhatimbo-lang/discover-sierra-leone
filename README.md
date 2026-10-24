@@ -44,3 +44,39 @@ This project is a responsive tourism website, **”Discover Sierra Leone,”** t
 
 - HTML5
 - CSS3 (Flexbox, Grid, Media Queries)
+
+## Screenshots
+
+### Home
+
+
+![Home Page](screenshots/home.png)
+
+
+
+### About
+
+
+![About Page](screenshots/about.png)
+
+
+
+### Services
+
+
+![Services Page](screenshots/services.png)
+
+
+
+### Explore
+
+
+![Explore Page](screenshots/explore.png)
+
+
+
+### Contact
+
+
+![Contact Page](screenshots/contact.png)
+
